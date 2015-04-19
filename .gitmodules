@@ -1,0 +1,6 @@
+[submodule "jquery.appear"]
+	path = jquery.appear
+	url = git@github.com:morr/jquery.appear.git
+[submodule "jquery.transit"]
+	path = jquery.transit
+	url = git@github.com:rstacruz/jquery.transit.git
